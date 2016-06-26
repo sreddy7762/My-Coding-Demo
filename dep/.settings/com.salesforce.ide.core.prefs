@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+endpointApiVersion=36.0
+endpointEnvironment=Sandbox
+endpointServer=test.salesforce.com
+httpsProtocol=true
+ideVersion=33.0
+keependpoint=false
+metadataFormatVersion=33.0
+namespacePrefix=
+packageName=unpackaged
+preferToolingDeployment=true
+projectIdentifier=IDE-4421003703733696661
+readTimeout=600
+username=sridhar.kontham@staples.com.test
